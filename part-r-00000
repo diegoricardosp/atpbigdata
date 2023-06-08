@@ -1,210 +1,94 @@
-Afghanistan	672
-Albania	103749
-Algeria	124954
-Andorra	77385
-Angola	33479
-Anguilla	14293
-Antigua and Barbuda	64726
-Argentina	201662
-Armenia	99827
-Aruba	35275
-Australia	307522
-Austria	180776
-Azerbaijan	73693
-Bahamas	102271
-Bahrain	102372
-Bangladesh	101193
-Barbados	109234
-Belarus	119516
-Belgium	141275
-Belgium-Luxembourg	32900
-Belize	76177
-Benin	45455
-Bermuda	20835
-Bhutan	25773
-Bolivia (Plurinational State of)	92733
-Bosnia Herzegovina	78500
-Botswana	92726
-Brazil	184748
-Brunei Darussalam	49635
-Bulgaria	130343
-Burkina Faso	53877
-Burundi	40905
-Cabo Verde	58811
-Cambodia	39767
-Cameroon	61742
-Canada	216179
-Cayman Isds	4
-Central African Rep.	16836
-Chad	1389
-Chile	117232
-China	156490
-China, Hong Kong SAR	172362
-China, Macao SAR	78725
-Colombia	104357
-Comoros	18562
-Congo	19125
-Cook Isds	2911
-Costa Rica	79329
-Croatia	99904
-Cuba	19833
-Cyprus	101921
-Czech Rep.	106936
-Côte d'Ivoire	60822
-Denmark	122526
-Djibouti	1111
-Dominica	28042
-Dominican Rep.	46751
-EU-28	70196
-Ecuador	70831
-Egypt	69434
-El Salvador	64199
-Eritrea	1732
-Estonia	83963
-Ethiopia	43022
-FS Micronesia	13706
-Faeroe Isds	25296
-Fiji	45858
-Finland	104178
-Fmr Fed. Rep. of Germany	12534
-Fmr Sudan	22420
-France	111666
-French Guiana	2296
-French Polynesia	32917
-Gabon	23120
-Gambia	21854
-Georgia	39771
-Germany	88570
-Ghana	35082
-Greece	83961
-Greenland	25905
-Grenada	18752
-Guadeloupe	2610
-Guatemala	51906
-Guinea	13178
-Guinea-Bissau	1156
-Guyana	30508
-Haiti	787
-Honduras	32790
-Hungary	53898
-Iceland	42993
-India	69172
-Indonesia	67129
-Iran	15667
-Iraq	455
-Ireland	53759
-Israel	37053
-Italy	61772
-Jamaica	32862
-Japan	67384
-Jordan	37504
-Kazakhstan	26379
-Kenya	28458
-Kiribati	5610
-Kuwait	19375
-Kyrgyzstan	18524
-Lao People's Dem. Rep.	5840
-Latvia	40564
-Lebanon	28599
-Lesotho	10758
-Libya	2366
-Lithuania	40184
-Luxembourg	35874
-Madagascar	30425
-Malawi	20169
-Malaysia	53561
-Maldives	11326
-Mali	11370
-Malta	28711
-Martinique	1689
-Mauritania	6160
-Mauritius	32156
-Mayotte	6049
-Mexico	48184
-Mongolia	11320
-Montenegro	10389
-Montserrat	5497
-Morocco	30955
-Mozambique	14019
-Myanmar	5088
-Namibia	23956
-Nepal	9732
-Neth. Antilles	3090
-Netherlands	41799
-New Caledonia	13745
-New Zealand	52557
-Nicaragua	18877
-Niger	14260
-Nigeria	12615
-Norway	34564
-Oman	20696
-Other Asia, nes	34511
-Pakistan	16843
-Palau	5012
-Panama	20219
-Papua New Guinea	5646
-Paraguay	17880
-Peru	26325
-Philippines	21674
-Poland	28493
-Portugal	36937
-Qatar	9576
-Rep. of Korea	36407
-Rep. of Moldova	17120
-Romania	28597
-Russian Federation	25808
-Rwanda	9420
-Réunion	1002
-Saint Kitts and Nevis	7658
-Saint Lucia	10894
-Saint Vincent and the Grenadines	7935
-Samoa	5008
-Sao Tome and Principe	3463
-Saudi Arabia	23024
-Senegal	11827
-Serbia	12303
-Serbia and Montenegro	7762
-Seychelles	8994
-Sierra Leone	929
-Singapore	31004
-Slovakia	23736
-Slovenia	21935
-So. African Customs Union	8910
-Solomon Isds	1001
-South Africa	19891
-Spain	32062
-Sri Lanka	17258
-State of Palestine	3751
-Sudan	792
-Suriname	5852
-Swaziland	7632
-Sweden	26525
-Switzerland	30893
-Syria	3578
-TFYR of Macedonia	12938
-Tajikistan	2
-Thailand	29108
-Timor-Leste	1083
-Togo	6110
-Tonga	3021
-Trinidad and Tobago	14770
-Tunisia	16338
-Turkey	25338
-Turkmenistan	519
-Turks and Caicos Isds	1833
-Tuvalu	638
-USA	34678
-Uganda	11362
-Ukraine	14923
-United Arab Emirates	10980
-United Kingdom	25194
-United Rep. of Tanzania	12426
-Uruguay	10643
-Vanuatu	1263
-Venezuela	11258
-Viet Nam	9682
-Wallis and Futuna Isds	828
-Yemen	4729
-Zambia	9656
-Zimbabwe	7934
-country_or_area	1
+01_live_animals	550
+02_meat_and_edible_meat_offal	1774
+03_fish_crustaceans_molluscs_aquatic_invertebrates_ne	2617
+04_dairy_products_eggs_honey_edible_animal_product_nes	1218
+05_products_of_animal_origin_nes	753
+06_live_trees_plants_bulbs_roots_cut_flowers_etc	502
+07_edible_vegetables_and_certain_roots_and_tubers	2306
+08_edible_fruit_nuts_peel_of_citrus_fruit_melons	2390
+09_coffee_tea_mate_and_spices	1589
+10_cereals	796
+11_milling_products_malt_starches_inulin_wheat_glute	1387
+12_oil_seed_oleagic_fruits_grain_seed_fruit_etc_ne	1608
+13_lac_gums_resins_vegetable_saps_and_extracts_nes	586
+14_vegetable_plaiting_materials_vegetable_products_nes	331
+15_animal_vegetable_fats_and_oils_cleavage_products_et	2508
+16_meat_fish_and_seafood_food_preparations_nes	1053
+17_sugars_and_sugar_confectionery	750
+18_cocoa_and_cocoa_preparations	620
+19_cereal_flour_starch_milk_preparations_and_products	892
+20_vegetable_fruit_nut_etc_food_preparations	2409
+21_miscellaneous_edible_preparations	849
+22_beverages_spirits_and_vinegar	1138
+23_residues_wastes_of_food_industry_animal_fodder	838
+24_tobacco_and_manufactured_tobacco_substitutes	503
+25_salt_sulphur_earth_stone_plaster_lime_and_cement	3617
+26_ores_slag_and_ash	1230
+27_mineral_fuels_oils_distillation_products_etc	1951
+28_inorganic_chemicals_precious_metal_compound_isotope	8904
+30_pharmaceutical_products	1552
+31_fertilizers	1212
+32_tanning_dyeing_extracts_tannins_derivs_pigments_et	2642
+33_essential_oils_perfumes_cosmetics_toileteries	1911
+34_soaps_lubricants_waxes_candles_modelling_pastes	1370
+35_albuminoids_modified_starches_glues_enzymes	752
+36_explosives_pyrotechnics_matches_pyrophorics_etc	427
+37_photographic_or_cinematographic_goods	1546
+38_miscellaneous_chemical_products	3087
+39_plastics_and_articles_thereof	7102
+40_rubber_and_articles_thereof	3791
+41_raw_hides_and_skins_other_than_furskins_and_leather	1309
+42_articles_of_leather_animal_gut_harness_travel_good	1285
+43_furskins_and_artificial_fur_manufactures_thereof	395
+44_wood_and_articles_of_wood_wood_charcoal	2767
+45_cork_and_articles_of_cork	340
+46_manufactures_of_plaiting_material_basketwork_etc	296
+47_pulp_of_wood_fibrous_cellulosic_material_waste_etc	771
+48_paper_paperboard_articles_of_pulp_paper_and_board	5511
+49_printed_books_newspapers_pictures_etc	1100
+50_silk	428
+51_wool_animal_hair_horsehair_yarn_and_fabric_thereof	1238
+52_cotton	5732
+53_vegetable_textile_fibres_nes_paper_yarn_woven_fabri	1069
+54_manmade_filaments	3350
+55_manmade_staple_fibres	5047
+56_wadding_felt_nonwovens_yarns_twine_cordage_etc	1391
+57_carpets_and_other_textile_floor_coverings	1144
+58_special_woven_or_tufted_fabric_lace_tapestry_etc	2028
+59_impregnated_coated_or_laminated_textile_fabric	1306
+60_knitted_or_crocheted_fabric	896
+61_articles_of_apparel_accessories_knit_or_crochet	6141
+62_articles_of_apparel_accessories_not_knit_or_crochet	6593
+63_other_made_textile_articles_sets_worn_clothing_etc	3017
+64_footwear_gaiters_and_the_like_parts_thereof	1561
+65_headgear_and_parts_thereof	566
+66_umbrellas_walking_sticks_seat_sticks_whips_etc	345
+67_bird_skin_feathers_artificial_flowers_human_hair	383
+68_stone_plaster_cement_asbestos_mica_etc_articles	2693
+69_ceramic_products	1567
+70_glass_and_glassware	3187
+71_pearls_precious_stones_metals_coins_etc	2324
+72_iron_and_steel	8676
+73_articles_of_iron_or_steel	6880
+74_copper_and_articles_thereof	2953
+75_nickel_and_articles_thereof	736
+76_aluminium_and_articles_thereof	1992
+78_lead_and_articles_thereof	387
+79_zinc_and_articles_thereof	489
+80_tin_and_articles_thereof	332
+81_other_base_metals_cermets_articles_thereof	1528
+82_tools_implements_cutlery_etc_of_base_metal	3791
+83_miscellaneous_articles_of_base_metal	2150
+86_railway_tramway_locomotives_rolling_stock_equipmen	837
+87_vehicles_other_than_railway_tramway	4148
+88_aircraft_spacecraft_and_parts_thereof	733
+89_ships_boats_and_other_floating_structures	682
+91_clocks_and_watches_and_parts_thereof	2443
+92_musical_instruments_parts_and_accessories	1033
+93_arms_and_ammunition_parts_and_accessories_thereof	666
+94_furniture_lighting_signs_prefabricated_buildings	2153
+95_toys_games_sports_requisites	2049
+96_miscellaneous_manufactured_articles	2741
+97_works_of_art_collectors_pieces_and_antiques	388
+99_commodities_not_specified_according_to_kind	50
+all_commodities	70
